@@ -1,5 +1,5 @@
 # Portfolio Project
-## GamePulse
+## GameQuest
 
 ![Game_covers](assets/cover.png)
 
@@ -14,24 +14,24 @@ As a gamer, I noticed a gap in the market for a comprehensive platform that not 
 #### The Journey
 Building GamePulse was a journey filled with both technical challenges and rewarding milestones. My primary goal was to create a user-friendly platform that presents game data in an engaging and insightful manner. Along the way, I faced several challenges, from managing large datasets efficiently to ensuring a seamless user experience.
 
-[Visit GamePulse](game-pulse-ui.vercel.app)
+[Visit GameQuest](game-pulse-ui.vercel.app)
 
-Read project blog article: [GamePulse Blog]()
+
 
 Connect with me on LinkedIn:
-- [Anass Chtioui](https://www.linkedin.com/in/anass-chtioui-5305ba24a/)
+- [Bibiresanmi Oluwagbenga David](https://www.linkedin.com/in/david-bibiresanmi-b7a6a4249/)
 
 ### Installation
 
-To run GamePulse locally, follow these steps:
+To run GameQuest locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ondghoskot/GamePulse
+   git clone https://github.com/BIBIREDAVID/Game_Quest
    ````
 2. Install server dependencies:
     ```bash
-    cd GamePulse/server/
+    cd Game_Quest/server/
     npm install
     ````
 3. Install frontend dependencies:
@@ -55,13 +55,13 @@ Create a .env file in the server directory and add your configuration
 7. Open your browser and go to `http://localhost:3000` (or whatever port you chose).
 
 ### Usage
-Once GamePulse is up and running, you can:
+Once GameQuest is up and running, you can:
 
 Browse Latest games: Check the latest titles and trends about video games.
 Review Games: Create an account and start reviewing games you've played.
 
 ### Contributing
-To contribute to GamePulse, follow these steps:
+To contribute to GameQuest, follow these steps:
 1. Fork the repository.
 2. Create a new branch:
     ```bash
@@ -94,6 +94,6 @@ This project is licensed under the MIT License.
 In addition to working on the current features to ensure a smooth user experience, I have a few other features in mind that could be a game changer, such as, personalized game lists for each user as well as more user interactions options like likes and comments on eachother's reviews.
 
 ### Reflections
-Building GamePulse has been an incredible learning experience. I faced a lot of challenges, from handling large datasets to ensuring a responsive user interface, and each obstacle taught us valuable lessons. Moving forward, I am excited to continue improving GamePulse and adding new features that will enhance the user experience.
+Building GameQuest has been an incredible learning experience. I faced a lot of challenges, from handling large datasets to ensuring a responsive user interface, and each obstacle taught us valuable lessons. Moving forward, I am excited to continue improving GamePulse and adding new features that will enhance the user experience.
 
-Thank you for visiting GamePulse. I hope you enjoy using this platform as much as I enjoyed building it.
+Thank you for visiting GameQuest. I hope you enjoy using this platform as much as I enjoyed building it.
