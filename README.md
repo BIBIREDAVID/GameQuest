@@ -4,15 +4,15 @@
 ![Game_covers](assets/cover.png)
 
 
-GamePulse is a platform where users can check the latest news and trends about video games and create accounts to review games they've played.
+GameQuest is a platform where users can check the latest news and trends about video games and create accounts to review games they've played.
 
 ### Introduction
 
 #### Inspiration
-As a gamer, I noticed a gap in the market for a comprehensive platform that not only provides the latest games and trends but also fosters a community where gamers can share their experiences and insights. My vision for GamePulse is to create a one-stop destination for everything related to video games, driven by a passionate community.
+As a gamer, I noticed a gap in the market for a comprehensive platform that not only provides the latest games and trends but also fosters a community where gamers can share their experiences and insights. My vision for GameQuest is to create a one-stop destination for everything related to video games, driven by a passionate community.
 
 #### The Journey
-Building GamePulse was a journey filled with both technical challenges and rewarding milestones. My primary goal was to create a user-friendly platform that presents game data in an engaging and insightful manner. Along the way, I faced several challenges, from managing large datasets efficiently to ensuring a seamless user experience.
+Building GameQuest was a journey filled with both technical challenges and rewarding milestones. My primary goal was to create a user-friendly platform that presents game data in an engaging and insightful manner. Along the way, I faced several challenges, from managing large datasets efficiently to ensuring a seamless user experience.
 
 [Visit GameQuest](game-pulse-ui.vercel.app)
 
